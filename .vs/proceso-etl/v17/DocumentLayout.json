@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\service\\resultshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\service\\resultshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\service\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\service\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\service\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\service\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\models\\dbo\\dim\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\models\\dbo\\dim\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\models\\dbo\\fact\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\models\\dbo\\fact\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\models\\dbo\\fact\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\models\\dbo\\fact\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\models\\csv\\orderdetailscsvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\models\\csv\\orderdetailscsvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\models\\csv\\ordercsvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\models\\csv\\ordercsvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\data\\input\\orders.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\data\\input\\orders.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\models\\csv\\customercsvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\models\\csv\\customercsvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\data\\input\\customers.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\data\\input\\customers.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\data\\salesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\data\\salesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\models\\csv\\productcsvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\models\\csv\\productcsvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\models\\dbo\\dim\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\models\\dbo\\dim\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|c:\\users\\johaly\\onedrive\\escritorio\\proceso-etl\\proceso-etl\\models\\dbo\\dim\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D682F9B-60B6-47DC-99EE-584F1D714CAC}|proceso-etl\\proceso-etl.csproj|solutionrelative:proceso-etl\\models\\dbo\\dim\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\Etl\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Etl\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\.gitignore",
+              "RelativeDocumentMoniker": "proceso-etl\\.gitignore",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\.gitignore",
+              "RelativeToolTip": "proceso-etl\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-25T04:00:34.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\App.config",
+              "RelativeDocumentMoniker": "proceso-etl\\App.config",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\App.config",
+              "RelativeToolTip": "proceso-etl\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-25T03:41:42.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\efpt.config.json",
+              "RelativeDocumentMoniker": "proceso-etl\\efpt.config.json",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\efpt.config.json",
+              "RelativeToolTip": "proceso-etl\\efpt.config.json",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T03:29:54.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Program.cs",
+              "RelativeDocumentMoniker": "proceso-etl\\Program.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Program.cs",
+              "RelativeToolTip": "proceso-etl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T19:53:32.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Service\\ResultsHelper.cs",
+              "RelativeDocumentMoniker": "proceso-etl\\Service\\ResultsHelper.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Service\\ResultsHelper.cs",
+              "RelativeToolTip": "proceso-etl\\Service\\ResultsHelper.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T22:31:27.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CsvReader.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Service\\CsvReader.cs",
+              "RelativeDocumentMoniker": "proceso-etl\\Service\\CsvReader.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Service\\CsvReader.cs",
+              "RelativeToolTip": "proceso-etl\\Service\\CsvReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:38:23.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Service\\Loader.cs",
+              "RelativeDocumentMoniker": "proceso-etl\\Service\\Loader.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Service\\Loader.cs",
+              "RelativeToolTip": "proceso-etl\\Service\\Loader.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAuwCcBAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:41:46.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\dbo\\dim\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "proceso-etl\\Models\\dbo\\dim\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\dbo\\dim\\OrderStatus.cs",
+              "RelativeToolTip": "proceso-etl\\Models\\dbo\\dim\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T23:33:37.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\dbo\\fact\\Order.cs",
+              "RelativeDocumentMoniker": "proceso-etl\\Models\\dbo\\fact\\Order.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\dbo\\fact\\Order.cs",
+              "RelativeToolTip": "proceso-etl\\Models\\dbo\\fact\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:21:19.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\dbo\\fact\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "proceso-etl\\Models\\dbo\\fact\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\dbo\\fact\\OrderDetail.cs",
+              "RelativeToolTip": "proceso-etl\\Models\\dbo\\fact\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T22:21:52.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "orders.csv",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Data\\Input\\orders.csv",
+              "RelativeDocumentMoniker": "proceso-etl\\Data\\Input\\orders.csv",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Data\\Input\\orders.csv",
+              "RelativeToolTip": "proceso-etl\\Data\\Input\\orders.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-02-24T21:48:19.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerCsvModel.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\Csv\\CustomerCsvModel.cs",
+              "RelativeDocumentMoniker": "proceso-etl\\Models\\Csv\\CustomerCsvModel.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\Csv\\CustomerCsvModel.cs",
+              "RelativeToolTip": "proceso-etl\\Models\\Csv\\CustomerCsvModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:28:38.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderCsvModel.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\Csv\\OrderCsvModel.cs",
+              "RelativeDocumentMoniker": "proceso-etl\\Models\\Csv\\OrderCsvModel.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\Csv\\OrderCsvModel.cs",
+              "RelativeToolTip": "proceso-etl\\Models\\Csv\\OrderCsvModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:29:09.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDetailsCsvModel.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\Csv\\OrderDetailsCsvModel.cs",
+              "RelativeDocumentMoniker": "proceso-etl\\Models\\Csv\\OrderDetailsCsvModel.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\Csv\\OrderDetailsCsvModel.cs",
+              "RelativeToolTip": "proceso-etl\\Models\\Csv\\OrderDetailsCsvModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:29:28.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "customers.csv",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Data\\Input\\customers.csv",
+              "RelativeDocumentMoniker": "proceso-etl\\Data\\Input\\customers.csv",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Data\\Input\\customers.csv",
+              "RelativeToolTip": "proceso-etl\\Data\\Input\\customers.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-02-24T21:29:37.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SalesDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Data\\SalesDBContext.cs",
+              "RelativeDocumentMoniker": "proceso-etl\\Data\\SalesDBContext.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Data\\SalesDBContext.cs",
+              "RelativeToolTip": "proceso-etl\\Data\\SalesDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:32:24.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductCsvModel.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\Csv\\ProductCsvModel.cs",
+              "RelativeDocumentMoniker": "proceso-etl\\Models\\Csv\\ProductCsvModel.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\Csv\\ProductCsvModel.cs",
+              "RelativeToolTip": "proceso-etl\\Models\\Csv\\ProductCsvModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:29:47.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\dbo\\dim\\Phone.cs",
+              "RelativeDocumentMoniker": "proceso-etl\\Models\\dbo\\dim\\Phone.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\dbo\\dim\\Phone.cs",
+              "RelativeToolTip": "proceso-etl\\Models\\dbo\\dim\\Phone.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:21:25.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\dbo\\dim\\Customer.cs",
+              "RelativeDocumentMoniker": "proceso-etl\\Models\\dbo\\dim\\Customer.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\proceso-etl\\Models\\dbo\\dim\\Customer.cs",
+              "RelativeToolTip": "proceso-etl\\Models\\dbo\\dim\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:21:20.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\Etl\\Program.cs",
+              "RelativeDocumentMoniker": "Etl\\Program.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\proceso-etl\\Etl\\Program.cs",
+              "RelativeToolTip": "Etl\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T19:26:11.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
